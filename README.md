@@ -25,4 +25,4 @@ You will also see any lint errors in the console.
 
 ## The project is Live On:
 
-(https://project-planner-awesome.web.app/)
+https://project-planner-awesome.web.app
