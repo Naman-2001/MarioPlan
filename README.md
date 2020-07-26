@@ -1,5 +1,5 @@
 A project Planner made using **React**, **React Hooks** and **Redux** with a database deployed on **firebase**.<br/>
-It notifies you wehn someone joins the group and when someone add a project.
+It notifies you when someone joins the group and when someone add a project.
 
 # Preview
 
